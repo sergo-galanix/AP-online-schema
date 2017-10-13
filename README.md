@@ -1,3 +1,3 @@
-# Diagramma of entities and futuring functionality blocks of APO service
+## Scheme of the entities and future functional blocks of the APO service
 
-## open it by http://www.draw.io
+### open it by http://www.draw.io
